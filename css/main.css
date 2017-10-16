@@ -72,9 +72,17 @@ header #branding {
 header #branding h1 {
   margin: 0;
 }
+header .translate {
+  height: 20px;
+  width: 40px;
+}
 header nav {
   float: right;
   margin-top: 10px;
+}
+header .language {
+  float: right;
+  margin-right: 20px;
 }
 header .highlight, header .current a {
   color: #e8491d;

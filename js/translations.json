@@ -1,0 +1,12 @@
+argLang = [{
+  "en" : {
+    "home" : "HOME",
+    "about" : "ABOUT",
+    "faq" : "FAQ"
+  },
+  "se" : {
+    "home" : "HEM",
+    "about" : "OM OSS",
+    "faq" : "FAQ"
+  }
+}];
